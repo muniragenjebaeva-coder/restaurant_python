@@ -1,0 +1,30 @@
+{
+    "tables": {
+        "1": {
+            "seats": 3
+        }
+    },
+    "menu": {
+        "Burger": {
+            "price": 45898.0,
+            "category": "food"
+        },
+        "Beshbarmak": {
+            "price": 34908.0,
+            "category": "food"
+        },
+        "Qarashay": {
+            "price": 2897.0,
+            "category": "drink"
+        },
+        "Kokshay": {
+            "price": 7890.0,
+            "category": "drink"
+        },
+        "Cola": {
+            "price": 4569.0,
+            "category": "drink"
+        }
+    },
+    "orders": {}
+}
